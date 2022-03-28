@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roko Marinkovic (@rmarinkovic)
-- 👀 I’m interested in fullstack web development, gaming & economics.
+- 👀 I’m interested in fullstack web development, gaming & economics (Master's degree in Economics/Finance, University of Zagreb - Croatia)
 - 🌱 I’m currently mostly learning ReactJS for a front-end junior role.
 
 <!---
