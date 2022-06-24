@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roko Marinkovic (@rmarinkovic)
 - 👀 I’m interested in fullstack web development, gaming & economics (Master's degree in Economics/Finance, University of Zagreb - Croatia)
-- 🌱 I’m currently mostly learning ReactJS for a front-end junior role.
+- 🌱 I’m currently mostly learning JS for a front-end junior role.
 
 <!---
 rmarinkovic/rmarinkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
